@@ -1,0 +1,37 @@
+{
+	"bonus_buy_course": 5.5,
+	"convsData": {
+		"2000000001": {
+			"id": 2000000001,
+			"gameData": {
+				"game": "wheel",
+				"procent": 2,
+				"bets": {},
+				"amount": 0,
+				"resultData": {
+					"result": null,
+					"hash": null,
+					"sol": null
+				}
+			}
+		}
+	},
+	"usersData": {
+		"655037535": {
+			"id": 655037535,
+			"name": "Алексей",
+			"balance": 450000000,
+			"bbalance": 0,
+			"winDay": 0,
+			"winWeek": 0
+		},
+		"715157858": {
+			"id": 715157858,
+			"name": "Илюша",
+			"balance": 0,
+			"bbalance": 0,
+			"winDay": 0,
+			"winWeek": 0
+		}
+	}
+}
