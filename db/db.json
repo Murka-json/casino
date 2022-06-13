@@ -1,0 +1,87 @@
+{
+	"bonus_buy_course": 5.5,
+	"vkcPay": 4,
+	"convsData": {
+		"2000000001": {
+			"id": 2000000001,
+			"gameData": {
+				"game": "dice",
+				"ownerId": 655037535,
+				"procent": 2,
+				"procentAmount": {
+					"day": 2333312383.9200015,
+					"week": 2333312384.9200015,
+					"all": 2333312385.9200015
+				},
+				"bets": {},
+				"amount": 0,
+				"resultData": {
+					"result": 6,
+					"hash": "f2ae25cfcd309bd3dc1a3600b8e37b9a",
+					"secret": "lotivpdf60lvni6y9zgt"
+				},
+				"timer": 1,
+				"newTimer": 1
+			}
+		}
+	},
+	"usersData": {
+		"362612284": {
+			"id": 362612284,
+			"name": "Саша",
+			"balance": 0,
+			"bbalance": 0,
+			"winDay": 0,
+			"winWeek": 0
+		},
+		"575648437": {
+			"id": 575648437,
+			"name": "Maksim",
+			"balance": 0,
+			"bbalance": 0,
+			"winDay": 1000000,
+			"winWeek": 1000000
+		},
+		"655037535": {
+			"id": 655037535,
+			"name": "Алексей",
+			"balance": 85875.09999989346,
+			"bbalance": 0,
+			"winDay": 112639511214,
+			"winWeek": 112639511214
+		},
+		"715157858": {
+			"id": 715157858,
+			"name": "Илюша",
+			"balance": 1000000,
+			"bbalance": 0,
+			"winDay": 32343750,
+			"winWeek": 32343750
+		}
+	},
+	"historys": {
+		"keksik": {},
+		"vkcoin": {
+			"485151880": {
+				"id": 485151880,
+				"uid": 655037535,
+				"amount": 1000
+			},
+			"485151888": {
+				"id": 485151888,
+				"uid": 655037535,
+				"amount": 1000
+			},
+			"485152055": {
+				"id": 485152055,
+				"uid": 655037535,
+				"amount": 100000
+			},
+			"485152095": {
+				"id": 485152095,
+				"uid": 655037535,
+				"amount": 100000
+			}
+		}
+	}
+}
